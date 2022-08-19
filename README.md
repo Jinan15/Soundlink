@@ -1,14 +1,24 @@
-
 ![alt text](./mobileApp/assets/images/soundlinklogo.png)
 
 ### COP 4331 Large Project ###
 
-discover new sounds
+
+Discover new sounds
 =============
-soundlink is a social media platform that emphasizes playlist sharing via its mobile app
+- Soundlink is a social media platform that emphasizes playlist sharing via its mobile app
 
-users have the ability to post playlists through their spotify account
+- Users have the ability to post playlists through their Spotify account
 
-both followers and non-followers can interact with your content via likes, comments, reposts, and messages
+- Both followers and non-followers can interact with your content via likes, comments, reposts, and messages
 
-[apk for android](https://expo.dev/artifacts/eas/jKeHEGCBPHjk3PgPK5knL7.apk)
+- Customized Home Feed and live Top Users leaderboard
+
+
+Website link
+=============
+[soundlink.app](https://soundlink.app/)
+
+
+APK Download
+=============
+[Andriod APK](https://expo.dev/artifacts/eas/jKeHEGCBPHjk3PgPK5knL7.apk)
